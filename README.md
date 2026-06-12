@@ -1,33 +1,28 @@
-````markdown
 # <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Yashvanth%20M%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;REST+API+Developer;Full+Stack+Development+Trainee;Building+Scalable+Backend+Applications"/>
 
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.E-Electronics%20%26%20Communication-7C3AED?style=for-the-badge)
 ![CGPA](https://img.shields.io/badge/CGPA-8.21-6366F1?style=for-the-badge)
-![OpenToWork](https://img.shields.io/badge/Open%20To-Software%20Engineering-success?style=for-the-badge)
-![Location](https://img.shields.io/badge/Bangalore-Karnataka-blueviolet?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Specialization-Backend%20Development-A855F7?style=for-the-badge)
+![Location](https://img.shields.io/badge/Bangalore-Karnataka-4F46E5?style=for-the-badge)
 
 <br/>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/yashvanthmr">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mr.yashvanthh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yashvanthh">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -42,19 +37,18 @@
 
 # About Me
 
-Backend Developer with a strong foundation in Java, Spring Boot, REST APIs, PostgreSQL, MySQL, MVC Architecture, CRUD Operations, API Integration, and Exception Handling. Passionate about designing scalable backend systems and solving real-world engineering challenges through clean architecture and efficient software development practices.
+Backend Developer skilled in Java, Spring Boot, REST APIs, PostgreSQL, MySQL, MVC Architecture, CRUD Operations, API Integration, and Exception Handling.
 
-I focus on developing enterprise-grade applications, backend services, and data-driven platforms while continuously exploring Artificial Intelligence, Machine Learning, Cloud Computing, and Modern Software Engineering principles.
+I have completed my Bachelor of Engineering in Electronics and Communication Engineering and have gained practical experience through Full Stack Development training and internship programs. I enjoy building scalable backend applications, database-driven systems, and RESTful APIs using modern software engineering practices.
 
 ### Open To
 
-- Software Engineer Roles
 - Backend Developer Roles
-- Java Developer Positions
+- Java Developer Roles
+- Software Engineer Positions
 - Full Stack Developer Opportunities
-- AI / ML Engineering Internships
 - Product Engineering Teams
-- Open Source Collaboration
+- Entry-Level Development Positions
 
 ---
 
@@ -63,41 +57,40 @@ I focus on developing enterprise-grade applications, backend services, and data-
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,idea,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" />
 </p>
 
 ---
 
-# AI / ML Expertise
+# Technical Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|-----------|
-| Machine Learning | Intermediate | Supervised Learning, Classification Models |
-| Deep Learning | Intermediate | Neural Networks, TensorFlow Fundamentals |
-| Computer Vision | Intermediate | Face Recognition Systems, OpenCV |
-| AI Applications | Advanced | AI-Based Automation Solutions |
-| Data Processing | Intermediate | Data Cleaning, Feature Engineering |
-| Predictive Analytics | Intermediate | Model Evaluation & Deployment |
-| IoT + AI | Advanced | Smart Systems & Sensor Integration |
-| MLOps Awareness | Beginner | Model Deployment & Monitoring Concepts |
+| Backend Development | Advanced | Java, Spring Boot, MVC Architecture |
+| API Development | Advanced | REST APIs, CRUD Operations |
+| Database Management | Advanced | PostgreSQL, MySQL, MongoDB |
+| Software Architecture | Intermediate | MVC Design Pattern |
+| Full Stack Development | Intermediate | React, JavaScript, Backend Integration |
+| Testing & Debugging | Intermediate | Postman, API Validation |
+| Version Control | Intermediate | GitHub, Git Workflows |
 
 ---
 
@@ -108,20 +101,20 @@ I focus on developing enterprise-grade applications, backend services, and data-
 
 ### Project Overview
 
-Enterprise-grade backend application developed using Spring Boot and PostgreSQL for managing product lifecycle operations.
+Backend application developed for product lifecycle management using Spring Boot and PostgreSQL.
 
 | Metric | Value |
 |----------|--------|
 | Stack | Java, Spring Boot, PostgreSQL |
-| Scale | Multi-layer MVC Architecture |
+| Scale | Multi-Layer MVC Architecture |
 | Performance | Optimized CRUD Operations |
 | Security | Validation & Exception Handling |
-| Impact | Simplified Product Management |
-| Repository | https://github.com/yashvanthh |
+| Impact | Efficient Product Data Management |
+| Repository | Available on GitHub |
 
 ### Professional Explanation
 
-Developed RESTful APIs for product management using Spring Boot and PostgreSQL. Implemented CRUD operations with Spring Data JPA and Hibernate while maintaining clean MVC architecture and API testing using Postman.
+Developed RESTful APIs for product management using Java, Spring Boot, and PostgreSQL. Implemented CRUD operations and database integration using Spring Data JPA and Hibernate. Followed MVC architecture principles and tested APIs using Postman.
 
 </details>
 
@@ -130,20 +123,20 @@ Developed RESTful APIs for product management using Spring Boot and PostgreSQL. 
 
 ### Project Overview
 
-Backend assessment platform designed for secure examination attempt management and monitoring.
+Backend assessment platform designed to manage examination attempts and monitoring processes.
 
 | Metric | Value |
 |----------|--------|
-| Stack | Java, Spring Boot, PostgreSQL |
+| Stack | Spring Boot, PostgreSQL |
 | Scale | Assessment Lifecycle Management |
-| Performance | Real-Time Monitoring |
-| Security | Validation & Auto Submission |
-| Impact | Reliable Assessment Platform |
-| Repository | https://github.com/yashvanthh |
+| Performance | Real-Time Attempt Tracking |
+| Security | Request Validation |
+| Impact | Reliable Assessment Handling |
+| Repository | Available on GitHub |
 
 ### Professional Explanation
 
-Built APIs supporting start, pause, resume, submit, tab-switch tracking, active attempt retrieval, and remaining time monitoring. Implemented robust exception handling and database integration.
+Developed REST APIs for managing assessment attempts including start, submit, pause, and resume operations. Implemented auto-submit, tab-switch tracking, active attempt retrieval, remaining time monitoring, validation, and exception handling.
 
 </details>
 
@@ -152,64 +145,20 @@ Built APIs supporting start, pause, resume, submit, tab-switch tracking, active 
 
 ### Project Overview
 
-Backend management platform for handling shop information and operational workflows.
+Backend management system for maintaining shop information and business operations.
 
 | Metric | Value |
 |----------|--------|
 | Stack | Java, Spring Boot, PostgreSQL |
-| Scale | Shop Management Operations |
-| Performance | Fast CRUD Transactions |
-| Security | Layered Architecture |
-| Impact | Improved Data Management |
-| Repository | https://github.com/yashvanthh |
+| Scale | Shop Management Platform |
+| Performance | Fast Database Transactions |
+| Security | Layered MVC Design |
+| Impact | Simplified Shop Management |
+| Repository | Available on GitHub |
 
 ### Professional Explanation
 
-Created RESTful APIs for shop management with complete CRUD functionality. Designed using Controller-Service-Repository architecture ensuring maintainability and scalability.
-
-</details>
-
-<details>
-<summary><b>Face Recognition Attendance System</b></summary>
-
-### Project Overview
-
-AI-powered attendance management solution leveraging computer vision and machine learning.
-
-| Metric | Value |
-|----------|--------|
-| Stack | Python, OpenCV, TensorFlow |
-| Scale | Multi-User Attendance Tracking |
-| Performance | Real-Time Recognition |
-| Security | Anti-Proxy Attendance Logic |
-| Impact | Automated Attendance Process |
-| Repository | https://github.com/yashvanthh |
-
-### Professional Explanation
-
-Developed an attendance platform using face recognition techniques and deep learning-based embeddings to automate attendance tracking while reducing manual effort.
-
-</details>
-
-<details>
-<summary><b>Autonomous Neo Sential Rover</b></summary>
-
-### Project Overview
-
-Intelligent surveillance and monitoring rover integrating AI, IoT, and embedded systems.
-
-| Metric | Value |
-|----------|--------|
-| Stack | Raspberry Pi, Python, OpenCV |
-| Scale | Multi-Sensor Autonomous Rover |
-| Performance | Real-Time Detection |
-| Security | Alert & Monitoring System |
-| Impact | Smart Surveillance Platform |
-| Repository | https://github.com/yashvanthh |
-
-### Professional Explanation
-
-Integrated ultrasonic, PIR, IR, GPS, sound sensors, and night-vision camera modules with AI-powered detection and automated notifications for autonomous monitoring applications.
+Developed RESTful APIs for shop management using Java, Spring Boot, and PostgreSQL. Implemented CRUD operations for creating, retrieving, updating, and deleting shop records using Controller, Service, and Repository layers.
 
 </details>
 
@@ -221,18 +170,17 @@ Integrated ultrasonic, PIR, IR, GPS, sound sensors, and night-vision camera modu
 
 **Feb 2026 – May 2026**
 
-Worked on enterprise Java Full Stack Development projects involving backend API development, database integration, and software testing.
+Worked on Java Full Stack Development using Java, Spring Boot, PostgreSQL, HTML, CSS, and JavaScript.
 
 ### Scope of Work
 
-- Developed REST APIs using Spring Boot
-- Built PostgreSQL integrated CRUD applications
-- Implemented MVC Architecture
-- Performed API testing using Postman
-- Debugged backend systems
-- Improved code maintainability
+- Developed REST API-based backend systems using Spring Boot
+- Built CRUD applications with PostgreSQL integration
+- Implemented MVC architecture using Controller, Service, and Repository layers
+- Performed debugging and testing
+- Conducted API validation using Postman
 
-**Skills:** `Java` `Spring Boot` `PostgreSQL` `REST APIs` `MVC` `Git`
+**Skills:** `Java` `Spring Boot` `PostgreSQL` `REST APIs` `MVC` `Postman`
 
 ---
 
@@ -240,18 +188,19 @@ Worked on enterprise Java Full Stack Development projects involving backend API 
 
 **Sep 2025 – Dec 2026**
 
-Completed professional full stack development training covering frontend, backend, databases, and workplace readiness skills.
+Completed professional training in Full Stack Development covering frontend and backend technologies.
 
 ### Scope of Work
 
-- Java Development
-- Spring Boot Applications
-- React Frontend Development
-- Database Management
-- Team Collaboration
-- Software Engineering Fundamentals
+- Learned Java Development
+- Spring Boot Framework
+- HTML, CSS, JavaScript
+- React Development
+- Database Integration
+- REST APIs & CRUD Operations
+- Soft Skills and Workplace Readiness
 
-**Skills:** `Java` `React` `Spring Boot` `SQL` `GitHub`
+**Skills:** `Java` `React` `Spring Boot` `JavaScript` `Database Management`
 
 ---
 
@@ -261,13 +210,12 @@ Completed professional full stack development training covering frontend, backen
 
 | Recognition | Details |
 |------------|---------|
-| B.E Graduate | Electronics & Communication Engineering |
+| Bachelor of Engineering | Electronics & Communication Engineering |
 | CGPA | 8.21 |
 | Java Full Stack Internship | Successfully Completed |
-| Full Stack Development Training | Certified |
-| Backend Engineering Projects | Multiple Production-Oriented Projects |
-| AI/ML Projects | Real-World Applications Built |
-| Open Source Learning | Continuous Contributor Journey |
+| Full Stack Development Training | Successfully Completed |
+| Backend Development Projects | 3 Major Backend Projects |
+| REST API Development | Multiple API-Based Applications |
 
 </div>
 
@@ -275,21 +223,13 @@ Completed professional full stack development training covering frontend, backen
 
 # Certifications
 
-## AWS
+## TNS India Foundation
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
+![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-Certified-7C3AED?style=for-the-badge)
 
-## Oracle
+## Dyashin Technosoft Pvt Ltd
 
-![Oracle](https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+![Java Full Stack Internship](https://img.shields.io/badge/Java%20Full%20Stack%20Internship-Certified-6366F1?style=for-the-badge)
 
 ---
 
@@ -297,67 +237,17 @@ Completed professional full stack development training covering frontend, backen
 
 <div align="center">
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://github.com/yashvanthh">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://linkedin.com/in/yashvanthmr">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashvanthh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvanthh&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvanthh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashvanthh&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvanthh&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashvanthh/yashvanthh/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
@@ -365,30 +255,26 @@ Completed professional full stack development training covering frontend, backen
 
 ```yaml
 Learning:
-  - Advanced Spring Boot
-  - System Design
-  - Data Structures & Algorithms
-  - Cloud Computing
-  - Machine Learning
+  - Spring Boot Advanced Concepts
+  - Backend System Design
+  - Database Optimization
+  - REST API Best Practices
 
 Building:
-  - Enterprise Backend Systems
-  - AI Powered Applications
-  - Full Stack Web Platforms
-  - Open Source Projects
+  - Backend Applications
+  - Database Driven Systems
+  - Java Projects
 
 Exploring:
-  - Microservices Architecture
-  - DevOps Practices
-  - Kubernetes
-  - Generative AI
+  - Advanced Spring Ecosystem
+  - Software Engineering Practices
+  - Enterprise Application Development
 
 Open_To:
-  - Software Engineering Roles
-  - Backend Development Roles
-  - Full Stack Development Roles
-  - AI/ML Opportunities
-  - Open Source Collaboration
+  - Backend Developer Roles
+  - Java Developer Roles
+  - Software Engineer Positions
+  - Full Stack Opportunities
 ```
 
 ---
@@ -402,15 +288,11 @@ Open_To:
 </a>
 
 <a href="https://linkedin.com/in/yashvanthmr">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yashvanthh">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -419,9 +301,8 @@ Open_To:
 
 <div align="center">
 
-### "Engineering scalable software solutions through innovation, continuous learning, and impactful problem solving."
+### "Building scalable backend solutions through clean architecture, continuous learning, and engineering excellence."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 </div>
-````
